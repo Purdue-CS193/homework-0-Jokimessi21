@@ -1,3 +1,8 @@
+# Josh Kim's First CS193 Homework
+- CS193 is fun!
+- CS193 will teach me many resources and info about cs
+- CS193 is chill
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -28,10 +33,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-# Josh Kim's First CS193 Homework
-- CS193 is fun!
-- CS193 will teach me many resources and info about cs
-- CS193 is chill
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
